@@ -1,6 +1,6 @@
 # Supply-Chain-Analytics
 
-![Executive Summary](Dashboard images/Executive%20Summary.png)
+![Executive Summary](Dashboard%20images/Executive%20Summary.png)
 
 # DataCo Supply Chain Analytics
 
@@ -177,34 +177,6 @@ Key activities included:
 - **Use market-level insights:** Compare performance across markets and customer segments to identify opportunities for targeted business strategies.
 - **Monitor KPIs regularly:** Use the Power BI dashboard to track sales, profit, margins, and delivery performance over time.
 
-## 📁 Repository Structure
-
-```text
-dataco-supply-chain-analysis/
-│
-├── data/
-│   └── README.md
-│
-├── python/
-│   ├── README.md
-│   └── data_cleaning_eda.ipynb
-│
-├── sql/
-│   ├── README.md
-│   └── supply_chain_analysis.sql
-│
-├── powerbi/
-│   ├── README.md
-│   └── Dataco_dashboard.pbix
-│
-├── images/
-│   └── Executive Overview.png
-│
-├── .gitignore
-└── README.md
-```
-
-*The filenames above are examples. Keep the actual filenames in your repository consistent with the files you upload. Avoid uploading raw or cleaned datasets publicly unless their licensing and sharing permissions allow it.*
 
 ## 🚀 Conclusion
 
