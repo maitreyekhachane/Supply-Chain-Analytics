@@ -1,6 +1,6 @@
 # Supply-Chain-Analytics
 
-![Executive Summary](Dashboard%20images/Executive%20Summary.png)
+![Executive Summary](Dashboard%20Images/Executive%20Summary.png)
 
 # DataCo Supply Chain Analytics
 
